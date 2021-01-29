@@ -73,7 +73,7 @@ function updatePrice() {
 const bookingBtn = document.getElementById('book-now');
 bookingBtn.addEventListener('click' , function () {
    
-    alert('You dont book !');
+    alert('Thanks For Booking !!');
     
 });
 
